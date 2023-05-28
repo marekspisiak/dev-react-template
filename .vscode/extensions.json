@@ -1,0 +1,12 @@
+{
+    "recommendations": [
+        "esbenp.prettier-vscode",
+        "github.copilot",
+        "burkeholland.simple-react-snippets",
+        "hwencc.html-tag-wrapper",
+        "pranaygp.vscode-css-peek",
+        "formulahendry.auto-close-tag",
+        "formulahendry.auto-rename-tag",
+        "christian-kohler.path-intellisense"
+    ]
+}
